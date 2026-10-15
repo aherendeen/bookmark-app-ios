@@ -1,0 +1,20 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+# Swift Package Manager
+.build/
+.swiftpm/
+Packages/
+# CocoaPods / Carthage
+Pods/
+Carthage/Build/
+# macOS
+.DS_Store
